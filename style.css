@@ -92,14 +92,18 @@ position: fixed;
 bottom: 30px;
 width: 100%;
 border-top: #BFC9CA solid 1px;
+left: 0px;
+right: 0px;
 }
 
 .footer {
 background-color: #F2F4F4;
 overflow: hidden;
-position: relative;
-top: 220px;
+position: fixed;
+bottom: 0px;
 border-top: #BFC9CA solid 1px;
+left: 0px;
+right: 0px;
 } 
 
 .footer a {
